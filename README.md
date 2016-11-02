@@ -13,7 +13,7 @@ This list does not include software made available in bulk to educational instit
 - [Intel Free Software Tools] (http://software.intel.com/en-us/qualify-for-free-software/student)
 - [Bitbucket] (https://atlassian.com/software/views/bitbucket-academic-license.jsp)
 - [Xamarin] (https://xamarin.com/student)
-- [Microsoft Imagine] (ttps://catalog.imagine.microsoft.com/en-us/catalog)
+- [Microsoft Imagine] (https://catalog.imagine.microsoft.com/en-us/catalog)
 - [NI LabVIEW Student Edition] (http://ni.com/labviewse) - visual programming environment
 - [Axure] (http://axure.com/edu) - design prototyping tool
 
