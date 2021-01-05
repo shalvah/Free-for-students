@@ -15,7 +15,7 @@ This list does not include software made available in bulk to educational instit
 - [Xamarin](https://xamarin.com/student)
 - [Microsoft Imagine](https://catalog.imagine.microsoft.com/en-us/catalog)
 - [NI LabVIEW Student Edition](http://ni.com/labviewse) - visual programming environment
-- [Azure](http://azure.com/edu) - design prototyping tool
+- [Axure](http://axure.com/edu) - design prototyping tool
 
 ## Non-Dev
 - [ANSYS Free Simulation Software](http://ansys.com/Products/AcademicANSYS-Student)
