@@ -8,14 +8,14 @@ Most of these only require you to sign up with a valid university email address.
 This list does not include software made available in bulk to educational institutions. 
 
 ## Software Dev/Design Tools
-- [GitHub Student Developer Pack](https://education.github.com/pack) - A bundle of free/discounted software tools/trainings from providers like DNSimple, Microsoft Azure, Namecheap, Stripe, SendGrid, and Udacity.
+- [GitHub Student Developer Pack](https://education.github.com/pack) - A bundle of free/discounted software tools/trainings from providers like Azure from Microsoft,Jet Brains, Bootstrap Studio,IMGBot,Online IDE,MongoDb,Free Domains from Name.com,Namecheap,get.tech for one year with SSL.
 - [JetBrains Student Developer Kit](http://jetbrains.com/student) - Access to full versions of all JetBrains IDEs for free 
 - [Intel Free Software Tools](http://software.intel.com/en-us/qualify-for-free-software/student)
 - [Bitbucket](https://atlassian.com/software/views/bitbucket-academic-license.jsp)
 - [Xamarin](https://xamarin.com/student)
 - [Microsoft Imagine](https://catalog.imagine.microsoft.com/en-us/catalog)
 - [NI LabVIEW Student Edition](http://ni.com/labviewse) - visual programming environment
-- [Axure](http://axure.com/edu) - design prototyping tool
+- [Azure](http://azure.com/edu) - design prototyping tool
 
 ## Non-Dev
 - [ANSYS Free Simulation Software](http://ansys.com/Products/AcademicANSYS-Student)
